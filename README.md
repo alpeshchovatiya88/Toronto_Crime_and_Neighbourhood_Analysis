@@ -42,11 +42,9 @@ This dataset contains 158 records with following 2 columns.
 
 ### Key Findings Summary:
 
-• Certain neighbourhoods showed consistently high crime activity.
- (West Humber – Clairville with highest crimes followed by Moss Park, Downtown Yonge East,
- York University Heights, and Yonge-Bay Corridor.)
-• Assault and Theft of Motor vehicles categories were among the most common offenses.
-• Crime frequency was highest in year 2023.
-• Downtown Yonge East followed by Yonge-Bay Corridor, and Moss Park were the most common areas
-with most frequent Assault type offenses.
-• Apartments and commercial locations were common premises for incidents.
+• Certain neighbourhoods showed consistently high crime activity.   
+ (West Humber – Clairville with highest crimes followed by Moss Park, Downtown Yonge East, York University Heights, and Yonge-Bay Corridor.)    
+• Assault and Theft of Motor vehicles categories were among the most common offenses.    
+• Crime frequency was highest in year 2023.    
+• Downtown Yonge East followed by Yonge-Bay Corridor, and Moss Park were the most common areas with most frequent Assault type offenses.   
+• Apartments and commercial locations were common premises for incidents.    
